@@ -1,0 +1,1 @@
+$(function(){$(".slider").slick({zIndex: 0,autoplay: !0,arrows: !1,dots: !0,cssEase: "linear",speed: 2e3,autoplaySpeed: 3e3});$("#phone").mask("+7 (999) 999-99-99");  $('input[type="submit"], a').click(function (event){event.preventDefault()});});
